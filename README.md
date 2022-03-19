@@ -7,7 +7,6 @@ A fun project where we want to leverage a Raspberry Pi to introduce home automat
 * [Useful Links](#useful-links "Goto Useful Links")
 * [Home Assistant](#home-assistant "Goto Home Assistant")
 * [Traefik Reverse Proxy](#traefik-reverse-proxy "Goto Traefik Reverse Proxy")
------------------------
 
 Useful Links
 -----------------------
