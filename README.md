@@ -49,5 +49,5 @@ Home Assistant
 
 Traefik Reverse Proxy
 ---------------------
--Must edit email for Traefik TSL certificate resolver
--To test, go to http://localhost:8080/
+* Must edit email for Traefik TSL certificate resolver
+* To test, go to http://localhost:8080/
